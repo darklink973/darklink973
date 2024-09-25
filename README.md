@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darklink973&label=Profile%20views&color=0e75b6&style=flat" alt="darklink973" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darklink973" alt="darklink973" /></a> </p>
-
 - 🔭 I’m currently working on [a navigator](https://github.com/darklink973/Navigator-in-node-js)
 
 - 🌱 I’m currently learning **Angular, electron and assembly x86**
